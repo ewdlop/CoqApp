@@ -1,0 +1,8 @@
+-R src CoqApp
+-R theories CoqApp.Theories
+-R examples CoqApp.Examples
+
+src/Basics.v
+src/Logic.v
+src/Algorithms.v
+examples/Tutorial.v 
